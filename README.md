@@ -9,7 +9,7 @@ The user can also change the scaling of the graph.
 ## Installation
 
 - Instructions to install SFML on your computer can be found [here](https://www.sfml-dev.org/tutorials/2.5/start-linux.php).
-- Clone the repository by 
+- Clone the repository by https://github.com/josegonz115/SFML-Graphing-Calculator.git
 
 ## Usage
 - To run the graphing calculator, use the keyboard to type in equations.
